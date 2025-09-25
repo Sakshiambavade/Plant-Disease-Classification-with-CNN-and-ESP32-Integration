@@ -1,0 +1,15 @@
+# dataset and data folders
+/data/
+PlantVillage/
+*.zip
+
+# OS / Python
+__pycache__/
+.DS_Store
+*.pyc
+
+# sensitive / API keys
+kaggle.json
+
+# model cache & checkpoints
+checkpoint/
